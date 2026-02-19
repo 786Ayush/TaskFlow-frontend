@@ -1,8 +1,10 @@
+````md
 # 🚀 TaskFlow - Frontend
 
 TaskFlow is a modern task management web application built using **Next.js**, **TypeScript**, and **Tailwind CSS**.
 
 It allows users to:
+
 - Create tasks
 - Update tasks
 - Delete tasks
@@ -28,63 +30,102 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/786Ayush/TaskFlow-frontend.git
+```
+````
+
 Go inside the project:
 
+```bash
 cd TaskFlow-frontend
+```
+
 Install dependencies:
 
+```bash
 npm install
-🚀 Run Development Server
+```
+
+---
+
+## 🚀 Run Development Server
+
+```bash
 npm run dev
+```
+
 App will run at:
 
+```
 http://localhost:3000
-🔗 Backend Requirement
+```
+
+---
+
+## 🔗 Backend Requirement
+
 This frontend connects to a backend API.
 
 Make sure your backend is running at:
 
+```
 http://localhost:5000
+```
+
 If backend URL changes, update it inside:
 
+```
 utils/axios.ts
-📁 Project Structure
+```
+
+---
+
+## 📁 Project Structure
+
+```
 app/
   ├── page.tsx
   ├── login/
   ├── register/
 components/
 utils/
-🔐 Features
-Authentication (Login / Register)
+```
 
-Protected Routes
+---
 
-CRUD Operations
+## 🔐 Features
 
-Modern UI
+- Authentication (Login / Register)
+- Protected Routes
+- CRUD Operations
+- Modern UI
+- Toast Notifications
+- Loading States
 
-Toast Notifications
+---
 
-Loading States
+## 🌍 Deployment
 
-🌍 Deployment
 You can deploy easily on:
 
-Vercel
+- Vercel
+- Netlify
+- Railway
 
-Netlify
+---
 
-Railway
+## 👨‍💻 Author
 
-👨‍💻 Author
-Ayush Gupta
+**Ayush Gupta**
 
-GitHub: https://github.com/786Ayush
+GitHub: [https://github.com/786Ayush](https://github.com/786Ayush)
 
-⭐ If You Like This Project
+---
+
+## ⭐ If You Like This Project
+
 Give it a star ⭐ on GitHub!
 
+```
 
 ---
 
@@ -108,3 +149,4 @@ If you want, I can also:
 - 🏆 Make it look like top GitHub projects
 
 Tell me what level you want 😄
+```
