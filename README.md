@@ -1,5 +1,5 @@
-````md
-# 🚀 TaskFlow - Frontend
+
+#  TaskFlow - Frontend
 
 TaskFlow is a modern task management web application built using **Next.js**, **TypeScript**, and **Tailwind CSS**.
 
@@ -31,7 +31,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/786Ayush/TaskFlow-frontend.git
 ```
-````
+
 
 Go inside the project:
 
@@ -103,16 +103,6 @@ utils/
 
 ---
 
-## 🌍 Deployment
-
-You can deploy easily on:
-
-- Vercel
-- Netlify
-- Railway
-
----
-
 ## 👨‍💻 Author
 
 **Ayush Gupta**
@@ -125,28 +115,4 @@ GitHub: [https://github.com/786Ayush](https://github.com/786Ayush)
 
 Give it a star ⭐ on GitHub!
 
-```
 
----
-
-# 🎯 Why This README is Better
-
-- Looks professional
-- Explains tech stack
-- Clear installation steps
-- Mentions backend requirement
-- Recruiter friendly
-- Clean formatting
-
----
-
-If you want, I can also:
-
-- 🔥 Add project screenshots section
-- 📸 Add demo GIF section
-- 🧠 Make it resume-level professional
-- 🚀 Add deployment badge
-- 🏆 Make it look like top GitHub projects
-
-Tell me what level you want 😄
-```
